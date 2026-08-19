@@ -4,6 +4,7 @@ message: "If you use the Ghanaian Cultural Lexicon in your research, please cite
 type: dataset
 version: "0.1"
 date-released: "2026-08-19"
+doi: 10.5281/zenodo.22017886
 
 authors:
   - family-names: "Appiah"
