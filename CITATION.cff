@@ -1,5 +1,19 @@
 cff-version: 1.2.0
 title: "Ghanaian Cultural Lexicon"
-version: "0.1"
-date-released: 2026-08-19
+message: "If you use the Ghanaian Cultural Lexicon in your research, please cite this dataset."
 type: dataset
+version: "0.1"
+date-released: "2026-08-19"
+
+authors:
+  - family-names: "Appiah"
+    given-names: "Joseph"
+
+repository-code: "https://github.com/JosephAppiah-c/Ghanaian-cultural-lexicon"
+
+abstract: >
+  The Ghanaian Cultural Lexicon (GCL) is an open, structured and
+  community-validated resource documenting Ghanaian language, culture,
+  cultural concepts, and their contextual meanings for research,
+  education, language preservation, and artificial intelligence and
+  natural language processing.
