@@ -1,5 +1,7 @@
 # Ghanaian Cultural Lexicon (GCL)
 
+   [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22017886.svg)](https://doi.org/10.5281/zenodo.22017886)
+
 ## An Open Resource for Ghanaian Language, Culture, and AI
 
 The **Ghanaian Cultural Lexicon (GCL)** is an open, structured, and community-validated resource documenting Ghanaian languages, cultural concepts, expressions, practices, and their contextual meanings.
