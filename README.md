@@ -4,7 +4,7 @@
 
 An open research resource documenting Ghanaian language, culture, and culturally situated meanings in structured, machine-readable form.
 
-This release is based on the project's validated master workbook.
+This release is based on the project's validated master workbook and represents the first public pilot release of the Ghanaian Cultural Lexicon
 
 ### Repository
 - `data/GCL_v0.1.xlsx` — canonical working/release workbook
