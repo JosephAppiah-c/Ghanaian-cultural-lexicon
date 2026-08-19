@@ -1,0 +1,25 @@
+﻿Field,Purpose,Example,Required?
+Entry_ID,Stable unique identifier,GCL-TWI-0001,Yes
+Lemma_Term,"Word, phrase or cultural concept being documented",Abusua,Yes
+Language_Variety,Language or variety,Twi,Yes
+Dialect_Region,"Dialect, region or community association",Asante / Akuapem,Recommended
+Part_of_Speech,Grammatical category where applicable,Noun,Recommended
+English_Gloss,Short English gloss,Kinship unit,Recommended
+Cultural_Domain,Broad cultural area,Family & Kinship,Yes
+Cultural_Construct,Higher-level cultural/psychological construct,Collectivism / Interdependence,Optional
+Sub_Facet,More specific construct or facet,Shared Identity,Optional
+Normative_Valence,"Whether the term/expression is presented as virtue, vice, neutral, etc.",Prescriptive (Virtue),Optional
+Morphology_Root,"Root, affix or morphological information",Abusua,Optional
+Cultural_Psychological_Definition,Contextual definition; distinguish evidence from interpretation,...,Yes
+Context_Pragmatic_Usage,How/when speakers use the item,Used in family disputes...,Recommended
+Sample_Proverb_Expression,"Natural example, proverb or expression",...,Optional
+Proverb_Translation,English translation of proverb/expression,...,Optional
+Alternative_Spellings,Orthographic or dialect variants,...,Optional
+Region_Community,Specific community/geographic association,Asante,Recommended
+Source_Type,Kind of evidence,Academic; community; dictionary; interview,Yes
+Source_Reference,"Citation, URL, book, interview ID, etc.",Author (year),Recommended
+Contributor,Person who submitted/edited the entry,Name/ID,Recommended
+Reviewer,Person who reviewed it,Name/ID,Optional
+Confidence,Evidence confidence,High / Medium / Low,Yes
+Validation_Status,Review state,Proposed / Under Review / Validated / Needs Revision / Rejected,Yes
+Reviewer_Notes,"Corrections, disputes or evidence needed",Verify dialect form,Optional
